@@ -9,12 +9,12 @@ Validation for username, password, and South African cellphone number
 
 Unit testing using JUnit 5 (OpenAI, 2024)
 
- Features
-✅ Username validation (must be 5 characters or less, contain a number and special character) (Oracle, 2024)
-✅ Password complexity check (min 8 characters, one uppercase, one number, one special character) (OpenAI, 2024)
-✅ Cellphone number validation (must start with '+27') (OpenAI, 2024)
-✅ Register and log in user
-✅ Full JUnit 5 test coverage
+Features
+Username validation (must be 5 characters or less, contain a number and special character) 
+Password complexity check (min 8 characters, one uppercase, one number, one special character)
+Cellphone number validation (must start with '+27') 
+Register and log in user
+Full JUnit 5 test coverage
 
 Technologies Used
 Java (NetBeans IDE)
@@ -23,7 +23,7 @@ JUnit 5 for testing
 
 Git for version control
 
- How to Run
+How to Run
 Open the project in NetBeans.
 
 Run the MAIN class.
